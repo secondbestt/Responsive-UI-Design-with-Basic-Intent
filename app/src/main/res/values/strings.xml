@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">En Yeni Fıkralar</string>
+
+
+
+    <string name="opt1">Tımarhanede  her hasta kendisini mısır tanesi zannediyor ve zıplıyormuş. Doktorlar bir tanesinin kenarda öylece durduğunu görmüş ve onun düzeldiğini zannetmişler. Yanına gitmiş ve;
+
+Sen neden zıplamıyorsun, mısır tanesi değil misin?
+
+Deli adam hiç hareket etmeden;
+
+Ben tavaya yapıştım…</string>
+    <string name="opt2">Akıl hastanesinde 3 kişi oldukça iyi yönde gelişim göstermeye başlamış. Doktorlar bu üç kişiyi çağırmış ve her birine sormuş.
+
+Birinci hastaya;
+
+2 + 2 kaç eder?
+
+Pazartesi…
+
+İkinci hastaya; 2 + 2 kaç eder?
+
+9
+
+Üçüncü hastaya; 2 + 2 kaç eder?
+
+4
+
+Üçüncü hasta doğru cevabı verince başlamışlar iyileşti diye kutlama yapmaya… Doktorlardan biri merak etmiş ve hastaya yaklaşıp sormuş.
+
+2 + 2’nin 4 olduğunu nasıl buldun?
+
+Pazartesi ile 9’u topladım…</string>
+    <string name="opt3">Bir Fransız, bir Alman, bir Amerikalı ve Temel alanında en iyi askerler olarak seçilmişler. Bir görev için bunların hepsi hücrelere kapatılmış ve her birine bir sır verilmiş. İlk olarak Fransızın hücresine girip sırrı söyletmeye çalışmışlar ve hemen söylemiş. Daha sonra Almanın bulunduğu hücreye girmişler baskı yapmışlar söylememiş, tırnaklarını çekmişler, söylemiş. Sonra Amerikalının hücresine girmişler baskı yapmışlar, söylememiş, tırnaklarını çekmişler söylememiş, elektrik vermeye kalmışlar söylemiş. En son Temel’in hücresine girmişler. Baskı yapmışlar, söylememiş. Tırnaklarını çekmişler söylememiş, elektik vermişler, söylememiş. Daha bir yığın işkence yapmışlar bana mısın dememiş. Adamlar yorulunca çıkmışlar odadan yarın devam etmek için geri döndüklerinde Temel’i kafasını duvara vururken bulmuşlar; Hatırlamıyorum, hatırlamıyorum…</string>
+    <string name="opt4">Üniversiteye kayıt olmak için giden gence Müdür sorar;
+
+Adın ne yavrum?
+
+Memememehmet Yayayayakup…
+
+Kekeme misin evladım?
+
+Hayır hocam babam kekemeydi. Nüfusa o kayıt ettirdi.</string>
+    <string name="opt5">Günün birinde Hoca\'nın da içinde bulunduğu topluluktan birisi;
+“Hocam, adam olmanın yöntemi nedir?” deyince; Hoca Efendi, adamın nefes almasına
+bile fırsat vermeden;
+“Canım, bunu bilmeyecek ne var, elbette kulaktır.” der.
+Fakat Hoca, arkadaşlarının "kulaktır" cevabından pek bir şey anlamadıklarını anlayınca
+açıklama yapma gereğini duyar:
+“Aa!. . Bunu bilemeyecek ne var? Herhangi bir adam konuşurken onu can kulağı ile
+dinlemeli; bu arada kendi ağzından çıkanı kendi kulağı duymalıdır.”
+</string>
+    <string name="opt6">Eşeği ile kasabaya alışverişe giden Nasreddin Hoca; kitap, elma, limon gibi birçok ağır şey almış. Aldıklarını kocaman bir çuvala yerleştirmiş. Çuvalı da sırtına alıp eşeğine binmiş.
+
+Yolda giderken Hoca’yı gören köylüler:
+
+– Ey Hoca, çuvalı niye kendi sırtına aldın?, diye sormuşlar.
+
+Hoca:
+
+– Ne yapayım? Zavallı hayvan zaten beni taşıyor, çuvalı da ona taşıtmaya gönlüm razı olmadı, demiş.
+</string>
+</resources>
